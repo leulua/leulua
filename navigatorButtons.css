@@ -1,0 +1,7 @@
+.topnav a {
+    float: none;
+    padding: 10px 8px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
