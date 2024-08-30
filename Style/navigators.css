@@ -8,12 +8,7 @@
 }
 
 .footer {
-    display: block;
+    bottom: 0;
     left: 50%;
-    margin-block-end: 1em;
-    margin-block-start: 1em;
-    margin-inline-end: 0px;
-    margin-inline-start: 0px;
     position: fixed;
-    unicode-bidi: isolate;
 }
