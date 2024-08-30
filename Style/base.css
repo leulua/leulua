@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Roboto;
-    src: url(Roboto.ttf);
+    font-family: Rubik;
+    src: url(Rubik-font.ttf);
 }
 
 a {
@@ -18,7 +18,7 @@ a {
     align-items: center;
     display: flex;
     flex-direction: column;
-    font-family: Roboto;
+    font-family: Rubik;
     min-height: 100vh;
     width: 100%;
 }
