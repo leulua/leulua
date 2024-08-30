@@ -8,8 +8,8 @@
 }
 
 .footer {
-    bottom: 1;
-    left: 0;
+    top: 1;
+    left: 50%;
     position: fixed;
     width: 100%;
 }
