@@ -9,9 +9,11 @@
 
 .footer {
     display: block;
-    margin-block-start: 1em;
+    left: 50%;
     margin-block-end: 1em;
-    margin-inline-start: 0px;
+    margin-block-start: 1em;
     margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    position: fixed;
     unicode-bidi: isolate;
 }
